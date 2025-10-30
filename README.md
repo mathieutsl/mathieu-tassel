@@ -41,10 +41,11 @@ I combine econometrics (Lasso, Ridge, Markov-switching) with machine learning (R
 ## 🌐 Connect with Me  
 You can reach me using :
 <p align="left">
-  <a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <a href="https://discordapp.com/users/561618995783139369" target="_blank">
-  <a href="https://www.linkedin.com/in/mathieu-tassel/" target="_blank">
+ <p align="left">
+  <a href="mailto:mathieu.tassel@ensae.fr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="Outlook logo" />
+  </a>
+  <a href="www.linkedin.com/in/mathieu-tassel-2b5b80265" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
