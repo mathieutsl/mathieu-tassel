@@ -14,14 +14,6 @@ Developing a nowcasting model for the Industrial Production Index (IPI) using bo
 
 I combine econometrics (Lasso, Ridge, Markov-switching) with machine learning (Random Forest, Gradient Boosting) to capture nonlinear dynamics and improve forecast accuracy.
 
----
-
-## 🧠 Interests
-- Macroeconomic & Financial Modeling  
-- Market Expectation Analysis  
-- Forecasting and Nowcasting Models  
-- Data Science & AI for Economics  
-- Quantitative Research and Strategy  
 
 ---
 
