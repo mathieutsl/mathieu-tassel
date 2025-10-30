@@ -10,7 +10,7 @@ I aim to combine rigorous quantitative methods with economic intuition to suppor
 ## 🚀 Current Projects
 🔹 **QuantCube Technology — Part time research project**
 
-Developing a nowcasting model for the Industrial Production Index (IPI) using both official macroeconomic data and high-frequency alternative indicators (energy use, emissions, surveys).
+I work on developing a nowcasting model for the Industrial Production Index (IPI) using both official macroeconomic data and high-frequency alternative indicators (energy use, emissions, surveys).
 
 I combine econometrics (Lasso, Ridge, Markov-switching) with machine learning (Random Forest, Gradient Boosting) to capture nonlinear dynamics and improve forecast accuracy.
 
